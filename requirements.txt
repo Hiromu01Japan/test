@@ -1,0 +1,7 @@
+bs4==0.0.1
+chromadb==0.4.15
+Django==4.2.7
+langchain==0.0.305
+openai==0.28.1
+tiktoken==0.5.2
+
